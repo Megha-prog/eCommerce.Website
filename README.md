@@ -27,7 +27,7 @@ npm install
 node server.js
 
 Development
-Want to improve? Great! Make the changes and raise a PR. Reach out to me over kankvish@gmail.com
+Want to improve? Great! Make the changes and raise a PR. Reach out to me over meghaadograa@gmail.com
 
 
 
