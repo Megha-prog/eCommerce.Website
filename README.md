@@ -1,7 +1,7 @@
 # Node.js based eCommerceApp 
 
 
- ![EcommerenceApplication Architecture.png](![image]![Capture](https://user-images.githubusercontent.com/76041569/167080928-27347cca-091c-41b6-9eca-e0a263aee251.PNG)
+ ![Capture (2)](https://user-images.githubusercontent.com/76041569/167081035-46641865-5e45-498d-8bca-d9ff82592e3c.PNG))
 
 -------------
         In this Ecomm application, I have given use cases for two types of users like ADMIN or CUSTOMER. Depends on the role of the user the accessbility and functionality changes in application. Every functionality is accessed by restful APIs, those APIs are validated for every call and only the authorised and authentication user can request for the service of the application. Everything in this application is done in module fashion.
