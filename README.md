@@ -1,5 +1,10 @@
 # Node.js based eCommerceApp 
+
+
+
+file:///E:/Backend%20RElevel%20material/mernbootcamp/MERN/attachment_05_Designing_architecture_of_our_project_-_attachment_lyst5951.pdf
 INTRODUCTION:
+
 -------------
         In this Ecomm application, I have given use cases for two types of users like ADMIN or CUSTOMER. Depends on the role of the user the accessbility and functionality changes in application. Every functionality is accessed by restful APIs, those APIs are validated for every call and only the authorised and authentication user can request for the service of the application. Everything in this application is done in module fashion.
 
