@@ -1,8 +1,7 @@
 # Node.js based eCommerceApp 
 
 
- ![EcommerenceApplication Architecture.pdf](file:///E:/Backend%20RElevel%20material/mernbootcamp/MERN/attachment_05_Designing_architecture_of_our_project_-_attachment_lyst5951.pdf)
-
+ ![EcommerenceApplication Architecture.pdf](file:///C:/Users/JGD/Downloads/attachment_05_Designing_architecture_of_our_project_-_attachment_lyst5951.pdf)
 INTRODUCTION:
 
 -------------
